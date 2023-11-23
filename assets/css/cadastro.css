@@ -1,0 +1,65 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+header
+{
+    display: flex;
+    background-color: #FAD824;
+    text-align: center;
+}
+
+
+.menu
+{
+    padding: 10px; 
+    margin: 10px;
+    font-size: 20px;
+    padding-left: 30px;
+}
+
+footer
+{
+    background-color: #FAD824;
+    text-align: center;
+    padding: 15px;
+}
+
+body
+{
+    background-color: black;
+}
+
+h1
+{
+    color: white;
+}
+
+.botao
+{
+    color: #fff ;
+    font-size: 18px;
+    font-weight: none;
+}
+ 
+form
+{
+    padding: 60px;
+    border: 5px solid #FAD824;
+    border-radius: 20px;
+    height: 400px;
+    width: 200px;
+    text-align: center;
+    color: white;
+}
+ 
+ 
+label
+{
+  
+    color: #fff;
+    font-size: 20px;
+}
+
